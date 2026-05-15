@@ -1,4 +1,4 @@
-# defect-aware-fatigue-prediction
+# defect-aware-fatigue-prediction: classical ML workflow
 
 This project demonstrates a Python-based workflow for predicting fatigue life from defect descriptors in additively manufactured materials. The workflow includes data cleaning, feature engineering, model training, cross-validation, and performance visualisation. The example data are anonymised/simulated to protect project confidentiality.
 
